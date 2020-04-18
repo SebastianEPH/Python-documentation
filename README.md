@@ -2,4 +2,4 @@
 Guia de documentación sencilla y practica para Python
 
 # Guía de Contenidos
-* [Array o listas](Contenido\Array.md)
+* [Array o listas](Contenido/Array.md)
