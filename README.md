@@ -1,5 +1,5 @@
-# Python-documentation
+# Cocumentación en python interactiva
 Guia de documentación sencilla y practica para Python
 
-# Guía de Contenidos
+# Menú de contenidos
 * [Array o listas](Contenido/Array.md)
