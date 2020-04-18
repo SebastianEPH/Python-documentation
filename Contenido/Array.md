@@ -33,7 +33,7 @@ print(Lista[3:])
 print(Lista[:])       
 ````
 
-## Insertar elementos
+## Insertar elementos:
 ````py
 # Agrega un valores al final
 Lista.append("")     
@@ -51,17 +51,20 @@ Lista.insert(2,"New valor")
 # Imprime el indice de un elemento especificado
 print(Lista.index("Valor5"))   # Muestra dónde se encuentra el valor, desde izquierd a derecha  
 ````
-## Comprobar elemento existente :
+## Comprobar elemento existente:
 ````py
 print("hola2" in Lista)   
 # Imprime un true si se encontró dicho elemento dentro de un Array
 # Imprime un False si se no encontró dicho elemento dentro de un Array
 ````
-## Sumar o juntar Arrays :
+## Sumar o juntar Arrays:
 ````py
 Lista1 = [1,2,3,4,5,6,7,8,6,7,8,9]
 Lista2 = ["dato1", "dato2", "dato3"]
 Lista3 = [Lista1 + Lista2]              # se juntaron elementos
 ````
-
+## Multiplicar o repetir lista:
+````py
+Lista = ["hola","hola2"] *3 # Solo repite los datos 
+````
 
